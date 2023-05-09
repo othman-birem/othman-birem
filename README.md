@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @othman-birem
-- 👀 I’m interested in desktop apps
 - 📫 How to reach me biremothman@gmail.com
 
 <!---
